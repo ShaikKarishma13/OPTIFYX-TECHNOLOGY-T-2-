@@ -75,3 +75,4 @@ The *Number Guessing Game* is a perfect beginner-level project that introduces t
 
 ##OUTPUT:
 ![Image](https://github.com/user-attachments/assets/af9ef5e3-46a4-434f-9fe7-17b55ebf04db)
+![Image](https://github.com/user-attachments/assets/0e32547f-2746-4edd-8c06-1d504fb0826e)
