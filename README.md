@@ -7,7 +7,7 @@
 *DURATION: 4 WEEKS (15th May 2025 -15thJune 2025)
 *TASK-TASK-2 (LEVEL-1)
 
-##*PROJECT OVERVIEW*##
+##*PROJECT OVERVIEW
 
 The *Number Guessing Game* is a simple, fun, and engaging console-based application built using Java. The core idea of this project is to create an interactive experience where the user attempts to guess a randomly generated number between 1 and 100. This game demonstrates key programming concepts such as loops, conditionals, input handling, and random number generation 
 
